@@ -1,5 +1,6 @@
 # Programmer- Smith
-# Program: Sandbox
-# Date: 12.18.2025
+# Program: Sandbox - Variables Branch
+# Date: 1.6.2026
 
-print("This is my amazing sandbox for me to play, learn, make mistakes and learn some more.")
+print("Lets make some variables!")
+
